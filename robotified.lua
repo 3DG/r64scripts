@@ -1,10 +1,10 @@
 local sgui = Instance.new("ScreenGui", game.CoreGui)
 for _, v in pairs(game.CoreGui:GetChildren()) do
-	if v.Name == "robodestroyer is shit" then
+	if v.Name == "robodestroyer is poop" then
 		v:Destroy()
 	end
 end
-sgui.Name = "robodestroyer is shit"
+sgui.Name = "robodestroyer is poop"
 -- Gui to Lua
 -- Version: 3.2
 
