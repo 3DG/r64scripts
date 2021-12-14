@@ -1,4 +1,3 @@
-warn("-- Ice cream spawner script | Made by 3DG --")
 collected = {}
 ic = {};
 ic.obj = {};
